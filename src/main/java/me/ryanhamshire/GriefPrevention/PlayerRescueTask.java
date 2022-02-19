@@ -18,6 +18,7 @@
 
 package me.ryanhamshire.GriefPrevention;
 
+import me.ryanhamshire.GriefPrevention.util.TextMode;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 
